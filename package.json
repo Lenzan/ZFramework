@@ -1,0 +1,8 @@
+{
+  "name": "com.keyrays.zframework",
+  "version": "0.0.1",
+  "description": "基于 ET5.0 框架简化版客户端框架",
+  "author": "zansimple",
+  "license": "ISC",
+  "displayName": "ZFramework"
+}
